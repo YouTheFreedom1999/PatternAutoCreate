@@ -1,6 +1,6 @@
-
-#define IIC_CREATE_PATTREN
 #ifdef IIC_CREATE_PATTREN
+
+
 class IIC
 {
 public:
