@@ -12,7 +12,7 @@ IIC协议
 
 | 目录名 | 作用 |
 |  ----  | ----  |
-| packages|放置不同的协议|
+|Packages|放置不同的协议|
 |Application|用户程序|
 |File|导出目录|
-|sample|例程|
+|Sample|例程|
