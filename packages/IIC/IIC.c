@@ -3,7 +3,6 @@
 #include "IIC.h"
 //默认识别地址000
 
-#define IIC_CREATE_PATTREN
 
 #ifdef IIC_CREATE_PATTREN
 
