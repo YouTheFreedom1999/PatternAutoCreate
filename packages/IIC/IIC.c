@@ -367,5 +367,5 @@ void IIC::read_p(unsigned char add, int num, unsigned char *data_all)
 
 	stop();
 }
-
+//真是白费了
 #endif
