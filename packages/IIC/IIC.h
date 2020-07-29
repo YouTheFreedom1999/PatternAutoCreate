@@ -18,5 +18,5 @@ public:
 private:
     char SCL, SDA;
 }
-
+//难过极了 
 #endif
